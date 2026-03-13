@@ -1,3 +1,3 @@
 # bo
 this is my first repo
-author borno
+author borno sge
